@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.360825mm"
+   height="67.360832mm"
+   viewBox="0 0 67.360825 67.360832"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.00258,-69.657217)">
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect111"
+       width="67.360825"
+       height="67.360825"
+       x="62.002579"
+       y="69.657211" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.5296px;fill:#000000;stroke-width:1.4608"
+       x="70.304367"
+       y="109.60361"
+       id="text167"><tspan
+         id="tspan165"
+         style="fill:#ffffff;stroke-width:1.4608"
+         x="70.304367"
+         y="109.60361"
+         sodipodi:role="line">LOGO</tspan></text>
+  </g>
+</svg>
